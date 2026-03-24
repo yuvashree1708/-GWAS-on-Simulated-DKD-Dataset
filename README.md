@@ -132,12 +132,7 @@ MAF < 0.05
 
 ## ⚠️ Disclaimer
 This project uses **simulated data for educational purposes only**.  
-Real GWAS studies require large-scale datasets and specialized tools like **PLINK**.
-
----
-
-## 👩‍🔬 Author
-Dharshini  
+Real GWAS studies require large-scale datasets and specialized tools like **PLINK**. 
 
 ---
 
